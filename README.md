@@ -1,16 +1,25 @@
-## Hi there 👋
+🚀 Sobre Mim
+Profissional em início de carreira na área de tecnologia, com muita vontade de aprender e crescer:
 
-<!--
-**thaisfernanda12/thaisfernanda12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formação em andamento em Ciencias da Computação
+📚 Sempre buscando aprender mais sobre desenvolvimento de software e tecnologia
 
-Here are some ideas to get you started:
+Soft Skills que me acompanham:
+💡 Facilidade para aprender coisas novas
+🤝 Trabalho em equipe e boa convivência
+📢 Boa comunicação e escuta ativa
+🧩 Pensamento lógico e resolução de problemas
+⏱️ Organização e foco em resultados
+🔍 Atenção a detalhes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Stack Tecnológica
+🧠 Em constante aprendizado:
+
+Python 
+
+HTML5 
+
+CSS3 
+
+JavaScript 
+
